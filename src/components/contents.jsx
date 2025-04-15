@@ -12,7 +12,7 @@ const DisplayContent = () => {
     
     
     // API endpoint for fetching the contents
-    const apiEndpoint = 'http://localhost:5000/api/fileshttps://drm-server.vercel.app/';
+    const apiEndpoint = 'http://localhost:5000/api/files';
 
 
     // Fetch items from the database when the component mounts
