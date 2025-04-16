@@ -12,7 +12,7 @@ const DisplayContent = () => {
     
     
     // API endpoint for fetching the contents
-    const apiEndpoint = 'http://localhost:5000/api/files';
+    const apiEndpoint = 'https://drm-app-3.onrender.com/api/files';
 
 
     // Fetch items from the database when the component mounts
